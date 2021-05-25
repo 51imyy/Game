@@ -7,15 +7,15 @@ Visuals:
 - 2D
 
 #Genre: metroidvania, soulslike (e.g. hollow knight), plattformer, singleplayer
--> mittelalter, dark fantasy, steampunk??
+-> mittelalter, dark fantasy, (steampunk)
 
 #World:
 - nichts abbaubar
-- kisten etc. zerstörbar
+- kisten etc. zerstï¿½rbar
 
 #Mechanics:
 - Was kann der Charakter
-	-> Springen, Ducken, Interagieren (truhen öffen), Inventar, sachen austauschen können
+	-> Springen, Ducken, Interagieren (truhen ï¿½ffen), Inventar, sachen austauschen kï¿½nnen
 	-> level
 	-> stamina, hp, mana
 
@@ -40,7 +40,7 @@ Visuals:
 	-> different attack patterns
 
 Later:
-- doge role / quickstep / dash
+- doge role / quickstep / dash (vielleicht durch Enemies durch mit doge role)
 - Story
 - level 
 - character aussehen
